@@ -1,8 +1,6 @@
 absl-py==2.0.0
 ale-py==0.8.1
 astunparse==1.6.3
-AutoROM==0.4.2
-AutoROM.accept-rom-license==0.6.1
 cachetools==5.3.1
 certifi==2023.7.22
 charset-normalizer==3.2.0
