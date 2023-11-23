@@ -76,7 +76,7 @@ Shimmy==0.2.1
 six==1.16.0
 tensorboard==2.13.0
 tensorboard-data-server==0.7.1
-tensorfl==2.13.1 
+tensorflow==2.13.1 
 tensorflow-estimator==2.13.0
 tensorflow-io-gcs-filesystem==0.34.0
 tensorflow-probability==0.21.0
